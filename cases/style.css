@@ -108,6 +108,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
 }
+body p{
+    line-height: 1.7;
+}
+body a:hover{
+    color: wheat;
+}
 
  /*  button  */
  .nav-bar .button{    

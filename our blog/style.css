@@ -104,7 +104,12 @@ box-sizing: border-box;
 a { 
     text-decoration: none;
 }
-
+body p{
+    line-height: 1.7;
+}
+body a:hover{
+    color: wheat;
+}
 
 body { 
     font-family: 'Poppins', sans-serif;
@@ -441,9 +446,10 @@ hr {
 }
 .footer-nav-bar i{
     color: black;
+    font-size: 18px;
 }
 .footer-nav-bar a{
-    font-size: 20px;
+    font-size: 13px;
     font-weight: 500;
     margin-right: 15px;
 }
