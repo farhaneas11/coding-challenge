@@ -204,7 +204,7 @@ body {
 /*  backgroung image  */
 .back-image {
     height: 30vh;
-    width: 100%;
+    max-width: 100%;
     background-color: var(--white);
     background: url(assets/contact_hero.jpg)center center no-repeat;
     background-size: cover;
