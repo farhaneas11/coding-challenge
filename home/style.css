@@ -247,7 +247,7 @@ body a:hover{
 .font-size h1{
     color: var(--primary);
     font-size: 65px;
-    font-weight: ;
+    font-weight:900 ;
     letter-spacing: -2px;
     margin-bottom: 25px;
 }
